@@ -25,8 +25,9 @@
     <img aling="center" alt="Samuel-ReactNative" height="30" weight="150" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <div/>
   <br>
-  <div>
+    
+<div>
     <a href= "mailto:samuelmbrusch@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
-    <a href= "discordapp.com/users/523554615799709696"><img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a>
-    <!-- <a href= "55+(51)99439-2119"><img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a> -->
+    <a href= "discordapp.com/users/523554615799709696"><img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+    <a href= "https://api.whatsapp.com/send?phone/5551994392119"><img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   </div>
