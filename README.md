@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente desenvolvendo e adquirindo habilidades na programação.
 - 🌱 Aprendendo desenvolvimento front-end e mobile.
-- 😄 Pronouns: ele/dele.
+
 
 <div>
   <a href="https://github.com/SamuelMBrusch/">
