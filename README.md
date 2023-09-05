@@ -1,8 +1,8 @@
 ### Olá, eu sou o Samuel!
 
+Estou cursando Software Engineering na PUCRS (Pontífice Universidade Católica do Rio Grande do Sul)
 
 - 🔭 Atualmente desenvolvendo e adquirindo habilidades na programação.
-- 🌱 Aprendendo desenvolvimento front-end e mobile.
 
 
 <div>
